@@ -11,8 +11,8 @@ My main interests are Software Development and related topics (Python and Fortra
 ### Highlights
 
 * Open-source contributions:
-  * [XCompact3d](www.github.com/xcompact3d/Incompact3d) (*Member of the development Team*): A Fortran-MPI based, finite difference high-performance code for solving the incompressible Navier-Stokes equation and as many as you need scalar transport equations;
-  * [XCompact3d-toolbox](www.github.com/fschuch/xcompact3d_toolbox) (*Core developer*): A Python package with many tools for pre and postprocessing prepared for the high-order Navier-Stokes solver XCompact3d.
+  * [XCompact3d](https://github.com/xcompact3d/Incompact3d) (*Member of the development Team*): A Fortran-MPI based, finite difference high-performance code for solving the incompressible Navier-Stokes equation and as many as you need scalar transport equations;
+  * [XCompact3d-toolbox](https://github.com/fschuch/xcompact3d_toolbox) (*Core developer*): A Python package with many tools for pre and postprocessing prepared for the high-order Navier-Stokes solver XCompact3d.
 
 * Reasearch results:
   * [Plunging Criterion](https://github.com/fschuch/incompact3d_plunging_criterion): This repository contains the source code and dataset from our work "Plunging condition for particle-laden flows over sloping bottoms: three-dimensional turbulence-resolving simulations" (Computers & Geosciences, 2021);
