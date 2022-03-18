@@ -19,7 +19,7 @@ My main interests are Software Development and related topics (Python and Fortra
   * [The Plunging Flow by 3D-LES](https://github.com/fschuch/the-plunging-flow-by-3D-LES): The Plunging of Hyperpycnal Plumes on Tilted Bed by Three-Dimensional Large-Eddy Simulations (EPTT, 2020).
 
 * Tutorials (all in Portuguese):
-  * [CFDPython](www.github.com/fschuch/CFDPython-BR) (*Translated to Portuguese*): A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes";
+  * [CFDPython](https://github.com/fschuch/CFDPython-BR) (*Translated to Portuguese*): A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes";
   * [Xarray - Python Brazil](https://github.com/fschuch/xarray-tutorial-python-brasil) (*Translated to Portuguese*): A 3h course presented at Python Brazil 2020 and 2021;
   * [Numerical Methods Applied to Heat Transfer](https://github.com/fschuch/Python-Transferencia-de-Calor) (*Author*);
   * [Numerical Methods in Python](https://github.com/fschuch/metodos-numericos-com-python) (*Author*).
